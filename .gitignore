@@ -1,0 +1,20 @@
+#################
+## Subdirectories
+#################
+C_CODE/
+GDAL/
+Log/
+
+
+#################
+## Files
+#################
+.project
+STORM.ini
+
+
+#################
+## File extensions
+#################
+*.sav
+*.enp
